@@ -1,4 +1,4 @@
-package Views;
+package Servicos;
 
 public class Caixa {
     public static int mostrarOpcoes (){
